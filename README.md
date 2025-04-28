@@ -1,17 +1,4 @@
-Got it — you want a **single combined `README.md`** that includes everything:
-
-✅ The **first project** (CDMA simulation and SNR calculations)  
-✅ The **second project** (BPSK BER analysis in AWGN and Rayleigh)  
-✅ The **third project** (TCP File Transfer, with OSI model explained)  
-✅ The **fourth project** (Router DHCP configuration, with DORA, Topology, OSI model)
-
----
-
-Here's your **final full README.md** professionally structured:
-
----
-
-# 🚀 Combined Projects Documentation
+# 🚀 Mobile Computing
 
 ---
 
